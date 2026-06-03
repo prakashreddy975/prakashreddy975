@@ -129,24 +129,35 @@ I enjoy creating content and sharing knowledge across platforms like **YouTube, 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashreddy975&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prakashreddy975&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakashreddy975&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=prakashreddy975&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashreddy975&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashreddy975&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 <!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakashreddy975&theme=onedark&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=prakashreddy975&theme=onedark&no-frame=true&margin-w=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
