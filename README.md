@@ -20,7 +20,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and Data Engineer with a strong focus on building scalable, reliable systems and intelligent data-driven applications.[web:2] I recently completed my **Master's in Data Science at the University at Buffalo** and bring **2+ years of software engineering experience** across backend development, data engineering, and AI-powered solutions.[web:2]
+I'm a Software Engineer and Data Engineer with a strong focus on building scalable, reliable systems and intelligent data-driven applications.I recently completed my **Master's in Data Science at the University at Buffalo** and bring **2+ years of software engineering experience** across backend development, data engineering, and AI-powered solutions.[web:2]
 
 I enjoy creating content and sharing knowledge across platforms like **YouTube, Medium, and Instagram**, while continuously exploring modern software and data stacks.
 
@@ -102,13 +102,13 @@ I enjoy creating content and sharing knowledge across platforms like **YouTube, 
 
 <p align="center">
   <!-- YouTube -->
-  <a href="https://www.youtube.com" target="_blank">
+  <!-- <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff" alt="YouTube" />
-  </a>
+  </a> -->
   <!-- Medium -->
-  <a href="https://medium.com" target="_blank">
+  <!-- <a href="https://medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=Medium&logoColor=ffffff" alt="Medium" />
-  </a>
+  </a> -->
   <!-- Instagram -->
   <a href="https://www.instagram.com/prakash_reddy_9710/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-603%20followers-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff" alt="Instagram" />
