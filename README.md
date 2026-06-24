@@ -11,22 +11,20 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Engineer;AI+Enthusiast;Building+Scalable+Systems;Lifelong+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+AI%2FML+Engineer+%7C+Data+Engineer+%7C+Backend+Developer;Java+%7C+Python+%7C+Spring+Boot+%7C+React+%7C+Kafka+%7C+AWS;Microservices+%7C+Distributed+Systems+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Generative+AI+%7C+RAG+%7C+LLMs+%7C+Cloud+Engineering" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and Data Engineer with a strong focus on building scalable, reliable systems and intelligent data-driven applications.  
-I recently completed my **Master's in Data Science at the University at Buffalo** and bring **2+ years of software engineering experience** across backend development, data engineering, and AI-powered solutions.
+I am a Software Engineer with 3+ years of experience building scalable software applications, distributed systems, data platforms, and AI-powered solutions. I hold a Master's degree in Data Science from the University at Buffalo and have expertise across Software Engineering, AI/ML, Data Engineering, Full-Stack Development, Cloud Computing, and Analytics. My background enables me to design and deliver end-to-end solutions that combine software, data, and artificial intelligence to solve real-world challenges.
 
-- 🚀 Building scalable systems and distributed backends
-- ☁️ Exploring cloud platforms, data engineering, and AI technologies
-- 📚 Always learning new tools, frameworks, and system design patterns
-- 🤝 Open to collaboration, mentoring, and exciting opportunities
+My experience includes developing backend systems, microservices, REST APIs, and cloud-native applications using Java, Python, Spring Boot, React, FastAPI, and modern software engineering practices. I have worked extensively with distributed systems, event-driven architectures, Kafka, AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and CI/CD pipelines. I also have hands-on experience with relational and NoSQL databases including MySQL, PostgreSQL, Cassandra, MongoDB, Redis, and Aerospike, with a strong focus on scalability, performance optimization, security, and reliability.
+
+Beyond software engineering, I have experience building ETL/ELT pipelines, real-time and batch data processing systems, data warehouses, and analytics solutions. I am skilled in SQL, data modeling, exploratory data analysis, business intelligence, and transforming complex datasets into actionable insights. My technical background also includes Machine Learning, Deep Learning, Generative AI, RAG-based applications, Vector Search, LLM-powered systems, MLOps, and cloud-based AI deployments using technologies such as PyTorch, TensorFlow, Scikit-learn, LangChain, and OpenSearch.
+
+I enjoy solving complex technical challenges and building innovative products at the intersection of Software Engineering, Data Engineering, Cloud Computing, and Artificial Intelligence. Open to opportunities in Software Engineering, AI/ML Engineering, Data Engineering, Data Analytics, Backend Development, Full-Stack Development, Cloud Engineering, and Platform Engineering.
 
 ---
 
@@ -113,9 +111,6 @@ I recently completed my **Master's in Data Science at the University at Buffalo*
   <a href="https://my-portfolio-eight-silk-58.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=vercel&logoColor=24283b" alt="Portfolio" />
   </a>
-  <a href="mailto:prakash.reddy9766@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
-  </a>
 </p>
 
 ---
@@ -153,8 +148,8 @@ I recently completed my **Master's in Data Science at the University at Buffalo*
   <a href="https://my-portfolio-eight-silk-58.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore-7AA2F7?style=for-the-badge&logo=vercel&logoColor=24283b" />
   </a>
-  <a href="mailto:prakash.reddy9766@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-prakash.reddy9766%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  <a href="mailto:pashamprakash1718@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-pashamprakash1718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
 
