@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prakashreddy975&label=Profile%20Views&color=1abc9c&style=flat" alt="profile views" />
 </p> 
-
+ 
 <!-- SECTION A: ANIMATED HEADER -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif/Hi.gif" width="35" /> 
